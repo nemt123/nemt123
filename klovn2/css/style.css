@@ -1,0 +1,45 @@
+body {
+  background-color: grey;
+
+}
+
+header {
+  background: #black;
+  height: 160px;
+  margin-bottom: 10px;
+}
+section {
+  margin: 0 auto;
+  width: 800px;
+  background-color: #ffffff;
+  padding: 20px;
+  position: relative;
+}
+
+#box1 {
+  height: 100px;
+  width: 100px;
+  background-color: yellow;
+  position: absolute;
+  top: ;
+  left: ;
+
+}
+
+#box2 {
+  height: 100px;
+  width: 100px;
+  background-color: red;
+  top: 80px;
+  left: 80px;
+
+}
+
+#box3 {
+  height: 100px;
+  width: 100px;
+  background-color: green;
+  top: ;
+  left: ;
+
+}
